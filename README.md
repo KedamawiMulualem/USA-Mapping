@@ -86,7 +86,7 @@ For four Closest cities Utah have the highest rank.</h3>
 
 <h1>Special Function:</h1>
 <h3>
-PageRank algorithm.
+<h1>PageRank algorithm.</h1>
 
 I used it to rate each city base on it’s connections with another neighboring Cities.</h3>
 ![17.JPG](/17.JPG)
