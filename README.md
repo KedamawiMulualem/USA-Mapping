@@ -22,7 +22,8 @@ Determine how many n closest neighboring cities each city will connect to. Get n
 Generate adjacency matrix to represent the connection of each node/city to n amount of neighboring cities.
 <h3>
 <h2>Input picture</h2>
-![GitHub Logo](drive.google.com/file/d/1Df0B1Rcc1ONQCjsKniLOWs2zb5BqAE5z/view?usp=sharing)
+ 
+![Alt Text](USA-Mapping/usadoted.jpg)
 
 <h3>Detect dots using get points function representing capitals of each state using image processing
  and assign them an id.</h3>
