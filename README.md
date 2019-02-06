@@ -33,13 +33,13 @@ Detect the dots and assign an id for each of them
 
 ![Capture12.JPG](/Capture12.JPG)
 
-![14.JPG](/14.JPG)
+
 
 Create a node that represents each city(dot) using its coordinate location on the image.
 Each node will contain a dictionary that uses the id of all the other nodes as a key and their 
 distance from the  current node as a value and it will be sorted  in ascending order of the values.
 
-![Capture8.JPG](/Capture8.JPG)
+
 
 Determine how many n closest neighboring cities each city will connect to. Get n as an input from the user.
 
