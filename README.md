@@ -24,36 +24,36 @@ Generate adjacency matrix to represent the connection of each node/city to n amo
 
 ![](/usadoted.jpg)
 
-<h3>Detect dots using get points function representing capitals of each state using image processing
- and assign them an id.</h3>
+Detect dots using get points function representing capitals of each state using image processing
+ and assign them an id.
 
 ![](/kd.jpg)
 
-<h3>Detect the dots and assign an id for each of them</h3>
+Detect the dots and assign an id for each of them
 
 ![Capture12.JPG](/Capture12.JPG)
 
 ![14.JPG](/14.JPG)
 
-<h3>Create a node that represents each city(dot) using its coordinate location on the image.
+Create a node that represents each city(dot) using its coordinate location on the image.
 Each node will contain a dictionary that uses the id of all the other nodes as a key and their 
-distance from the  current node as a value and it will be sorted  in ascending order of the values.</h3>
+distance from the  current node as a value and it will be sorted  in ascending order of the values.
 
 ![Capture8.JPG](/Capture8.JPG)
 
-<h3>Determine how many n closest neighboring cities each city will connect to. Get n as an input from the user.
+Determine how many n closest neighboring cities each city will connect to. Get n as an input from the user.
 
-Generate adjacency matrix to represent the connection of each node/city to n amount of neighboring cities.</h3>
+Generate adjacency matrix to represent the connection of each node/city to n amount of neighboring cities.
 
 ![Capture10.JPG](/Capture10.JPG)
 
-<h3>Setup matrix used to generate and set up adjacency matrix
- which will represent the graph.</h3>
+Setup matrix used to generate and set up adjacency matrix
+ which will represent the graph.
 
 ![15.JPG](/15.JPG)
 
-<h3>Dijkstra algorithm inside the Graph class. I used it to find the generate the shortest 
-distance from one city to another.</h3>
+Dijkstra algorithm inside the Graph class. I used it to find the generate the shortest 
+distance from one city to another.
 
 ![16.JPG](/16.JPG)
 
