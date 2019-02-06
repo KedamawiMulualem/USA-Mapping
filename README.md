@@ -88,17 +88,17 @@ For four Closest cities Utah have the highest rank.
 <h1>PageRank algorithm.</h1>
 
 I used it to rate each city base on it’s connections with another neighboring Cities.
-![17.JPG](/17.JPG)
+
 
 <h1>Additional functions:</h1>
 
 Distance function is used to find the Euclidean distance between two points.
 
-![18.JPG](/18.JPG)
+
 
 Draw path function used to draw the generated path/route on the map and display it.
 
-![19.JPG](/19.JPG)
+
 
 <h1>Acknowledgements: </h1>
 I would like to thank Prof. Li Chen for granting me the opportunity to work on this project under his mentorship.
