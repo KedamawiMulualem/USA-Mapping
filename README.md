@@ -45,12 +45,12 @@ Determine how many n closest neighboring cities each city will connect to. Get n
 
 Generate adjacency matrix to represent the connection of each node/city to n amount of neighboring cities.
 
-
+![Capture10.JPG](/Capture10.JPG)
 
 Setup matrix used to generate and set up adjacency matrix
  which will represent the graph.
 
-![15.JPG](/15.JPG)
+
 
 Dijkstra algorithm inside the Graph class. I used it to find the generate the shortest 
 distance from one city to another.
