@@ -1,8 +1,8 @@
 
 <h2>Dynamic optimization of flight routs with n number of stops.</h2>
-<h3>Target audience: Airlines and aviation industry .</h3>
+Target audience: Airlines and aviation industry .
 
-<h3>Design Strategy:
+Design Strategy:
 
 Detect dots using get points function representing capitals of each state using image processing
  and assign them an id.
@@ -19,7 +19,7 @@ distance from the  current node as a value and it will be sorted  in ascending o
 Determine how many n closest neighboring cities each city will connect to. Get n as an input from the user.
 
 Generate adjacency matrix to represent the connection of each node/city to n amount of neighboring cities.
-<h3>
+
 <h2>Input picture</h2>
 
 ![](/usadoted.jpg)
