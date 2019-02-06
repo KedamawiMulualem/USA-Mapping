@@ -1,6 +1,5 @@
 
-<h2>Problem Statement: 
-Dynamic optimization of flight routs with n number of stops.
+<h2>Dynamic optimization of flight routs with n number of stops.
 Target audience: Airlines and aviation industry .<h2>
 
 <h3>Design Strategy:
